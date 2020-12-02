@@ -1,0 +1,123 @@
+
+
+body{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+   
+   }
+
+
+.logo1{
+
+	margin-left: 10px;
+	margin-top: -8px;
+	opacity: .99;	
+	width: 9%;
+}
+
+.emiform{
+	
+	overflow-y: scroll;
+    	
+	width: 500px;
+	height: 460px;
+	background-color: white;
+	font-size: 110%;
+	top: 55%;
+	left: 50%;
+	border: 1px solid grey;
+	border-radius: 20px;
+	position: relative;
+	transform: translate(-50%, -60%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+}
+
+.emiform h1{
+	margin: -30px;
+	text-align: center;
+	font-size: 170%;
+}
+input[type=text]
+{
+	width: 30%;
+	border: 2px solid #aaa;
+	border-radius: 4px;
+	outline: none;
+	padding: 5px;
+	box-sizing: border-box;
+}
+input[type=text]:focus
+{
+border-color: dodgerBlue;
+box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+input[type=number]:focus
+{
+border-color: dodgerBlue;
+box-shadow: 0 0 8px 0 dodgerBlue;
+}
+
+input[type=number]
+{
+	width: 30%;
+	border: 2px solid #aaa;
+	border-radius: 4px;
+	outline: none;
+	padding: 5px;
+	box-sizing: border-box;
+}
+select:focus
+{
+border-color: dodgerBlue;
+box-shadow: 0 0 8px 0 dodgerBlue;
+}
+select
+{
+	width: 30%;
+	border: 2px solid #aaa;
+	border-radius: 4px;
+	outline: none;
+	padding: 5px;
+	box-sizing: border-box;
+}
+
+.btn1{
+	width: 100px;
+	height: 35px;
+	font-size: 90%;
+}
+
+.btn2{
+	width: 100px;
+	height: 35px;
+	font-size: 90%;
+}
+
+.btn3{
+	width: 100px;
+	height: 35px;
+	font-size: 90%;
+}
+
+.btn1:hover{
+	border-color: dodgerBlue;
+box-shadow: 0 0 8px 0 dodgerBlue;
+width: 150px;
+height: 40px;
+}
+
+.btn2:hover{
+	border-color: dodgerBlue;
+box-shadow: 0 0 8px 0 dodgerBlue;
+width: 150px;
+height: 40px;
+}
+.btn3:hover{
+	border-color: dodgerBlue;
+box-shadow: 0 0 8px 0 dodgerBlue;
+width: 150px;
+height: 40px;
+}

@@ -1,0 +1,47 @@
+
+
+section .container{
+	
+	margin: 17px;
+	
+    display: inline-block;
+    margin-left: 50px;
+    width:260px;
+    overflow: auto;
+    
+    box-shadow:  5px 6px 5px 1px #888888,-1px -1px 3px 1px #888888;
+
+	
+}
+
+
+
+.title a{
+	color: #FF8C01;
+}
+
+.form-inline{
+	width: 25%;
+	transform: translate(150%,-50%);
+	top:0
+	left:0;
+
+}
+.form-inline .form-control{
+	border: px solid black;
+}
+#list li
+{
+	display: inline-block;
+	 margin-left: 50px;
+	border: 0px solid black;
+	margin: 30px;	
+	box-shadow:  5px 6px 5px 1px #888888,-5px -6px 5px 1px #888888; 
+	list-style-type: 	none;
+		
+			
+}
+
+section #list li{
+	float: left;
+}

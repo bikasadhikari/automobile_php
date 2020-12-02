@@ -1,0 +1,48 @@
+body{
+   margin: 0px;
+   padding: 0px;
+   box-sizing: border-box;
+  
+  
+   
+  }
+
+.logo{
+  height: 110px;
+    width: auto;
+    margin-top: -25px;
+    margin-left: -20px;
+}
+
+.blockimg{
+	margin-top: 20px;
+	
+	display: inline-block;
+	
+	
+	box-shadow: 2px 3px 3px 2px #888888,-2px -3px 3px 2px #888888; 
+    border-radius: 0px;
+	
+}
+
+.rows{
+	margin-top: -10px;
+	
+	
+	font-size: 130%;
+	line-height: 1.6;
+
+
+}
+
+.rows .row1{
+	font-size: 150%;
+}
+
+#btn1, #btn2{
+    margin-left: 45px;
+    width: 120px;
+	
+		
+}
+

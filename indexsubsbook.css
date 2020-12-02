@@ -1,0 +1,37 @@
+.bikedet .card{
+	transform: translate(40%,10%);
+	position: relative;
+
+}
+
+.card-img-top{
+	width: 350.5px;
+	height: 300px;
+}
+.card-body .btn{
+	width: 150px;
+}
+
+.price .card{
+	margin-top: -529px;
+	margin-left: 550px;
+	position: absolute;
+}
+
+.plan .card{
+	margin-top: -280px;
+	margin-left: 550px;
+	position: absolute;
+}
+
+.subvsbuy .card{
+	margin-top: -180px;
+	margin-left: 550px;
+	position: absolute;
+}
+
+.con .card1{
+margin-top: 66px;
+	margin-left: 147px;
+	position: absolute;
+}
